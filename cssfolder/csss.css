@@ -1,0 +1,72 @@
+.smart{
+  background-color: rgb(247, 17, 227);
+  text-align: center;
+  font-family: arial;
+  font-size: 60px;
+  font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+  cursor: pointer;
+}
+.smart:hover{
+  background-color: rgb(13, 14, 14);
+}
+.smart:active{
+  background-color: rgb(255, 0, 0);
+  border-radius: ;
+}
+.body{
+  background-color:rgb(255, 255, 255);
+}
+.hen{
+  border-radius: 14px;
+  width: 50px;
+}
+.text,
+.texte{
+  border-style: solid;
+  width: 250px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  display: block;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-family: arial;
+}
+.thank{
+width: 250px;
+display: inline-block;
+}
+.yes{
+color: black;
+font-weight: bold;
+font-family: arial;
+width: 30px;
+display: inline-block;
+}
+.no{
+color: black;
+font-weight: bold;
+font-family: arial;
+width: 30px;
+display: inline-block;
+}
+.logo{
+  display: block;
+  margin-top: 50px;
+}
+.search{
+  width: 500px;
+  text-align: left;
+  margin-top: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 8px;
+  border-style: solid;
+  
+
+}
+
